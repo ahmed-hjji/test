@@ -1,2 +1,2 @@
-#test
-Hi that is my first project on github
+# Test
+Hi, That is my first project on Github
